@@ -19,7 +19,7 @@ public class Puerta {
     public Puerta() {
         this.material = "Madera";
         this.color = "Café";
-        this.conVidrio = false;
+        this.conVidrio = true;
         this.ancho = 80;
         this.alto = 200;
     }
